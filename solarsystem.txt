@@ -4,4 +4,7 @@ Earth
 Mars
 Jupiter
 Saturn
+Uranus
+Neptune
+Pluto
 #ToDo: add more planets
